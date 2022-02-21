@@ -15,7 +15,7 @@ I am a Data Analyst from Paris, France
 <br>
 
 ## Expertise
-<img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="python" src="https://img.shields.io/badge/Python-3DDC84?logo=python&logoColor=white&style=for-the-badge" /><img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
+<img align="left" alt="sql" src="https://img.shields.io/badge/Sql%20-%2320232a.svg?&style=for-the-badge&logo=sql&logoColor=%2361DAFB" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="python" src="https://img.shields.io/badge/Python-3DDC84?logo=python&logoColor=white&style=for-the-badge" /><br>
 <br>
 <!--
 **Nassof/Nassof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
