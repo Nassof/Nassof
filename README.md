@@ -2,7 +2,6 @@
 I am a Data Analyst from Paris, France 
 - 🔭 Mostly using SQL and Python 
 - 🌱 Always in learning mode
- 
 <br>
 
 ## Connect with me
