@@ -1,7 +1,9 @@
-### Hello World 👋
- 
-- 🔭 Mostly using SQL and Python 
-- 🌱 Always in learning mode
+### Hello World ! 👋
+Developper in the Public Area and former Data Analyst, i mostly deal with Data Engineering projects, do not hesitate to give me feedbacks and reach me on my social medias, peace ! 
+
+🌱 Always on learning mode
+
+
 <br>
 
 ## Connect with me
