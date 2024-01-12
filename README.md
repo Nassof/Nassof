@@ -1,5 +1,5 @@
 ### Hello World ! 👋
-Developper in the Public Area and former Data Analyst, i mostly deal with Data Engineering projects, do not hesitate to give me feedbacks and reach me on my social medias ! 
+Developper in the Public Area & former Data Analyst, i mostly deal with Data Engineering projects, do not hesitate to give me feedbacks and reach me on my social medias ! 
 
 🌱 Always on learning mode
 
